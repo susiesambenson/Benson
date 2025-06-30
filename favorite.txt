@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Pizza
 Ramen
 Tacos
-=======
 Inception
 The Matrix
 Spirited Away
->>>>>>> movies
